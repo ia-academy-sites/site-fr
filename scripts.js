@@ -1,5 +1,5 @@
-// Set the launch date (May 15, 2025)
-const countDownDate = new Date("May 31, 2025 00:00:00").getTime();
+// Set the launch date (August 1, 2025)
+const countDownDate = new Date("August 10, 2025 00:00:00").getTime();
 
 // Update the countdown every second
 const countdownTimer = setInterval(function() {
